@@ -1,6 +1,4 @@
 ## [Saverio Scagnoli](https://svscagn.com)
-### Fullstack Developer
-
 I'm a fullstack developer from Rome, Italy.  
 I particularly love backend and system development.
 
